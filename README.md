@@ -1,1 +1,1 @@
-# LangChain-RAG-basics
+# langchain-rag-basics
